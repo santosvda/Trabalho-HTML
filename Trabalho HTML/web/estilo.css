@@ -1,0 +1,21 @@
+body{
+	background-color: gray;
+}
+header{
+	background-color: #B0C4DE;
+	margin: 5px;
+	padding: 5px;
+	border: 2px groove black;
+}
+section{	
+		clear: both;
+		background-color: #B0C4DE;
+		margin: 5px;
+		border: 2px groove black;
+		padding: 5px;
+}
+
+nav{
+	margin: 5px;
+}
+
